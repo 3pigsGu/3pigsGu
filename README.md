@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<img src="https://github-profile-trophy.vercel.app/?username=3pigsGu&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 <!--
 **3pigsGu/3pigsGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
